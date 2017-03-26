@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2017-03-26T01:48:09.069Z",
+    "end": "2017-03-26T01:48:09.084Z",
+    "duration": 15
+  },
+  "tests": [
+    {
+      "title": "Agent can login to the web portal",
+      "fullTitle": "Authentication Agent can login to the web portal",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "Agent can login to the web portal",
+      "fullTitle": "Authentication Agent can login to the web portal",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
